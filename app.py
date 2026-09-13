@@ -87,3 +87,7 @@ if user_input:
 
 if st.button("Clear Chat"):
     st.session_state.messages =[]
+
+
+# run venv\Scripts\activate to activate virtual environment.
+# then streamlit run app.py 
